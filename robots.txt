@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiri-diana-max.github.io/alla-etikin/sitemap.xml
